@@ -1,0 +1,21 @@
+C:\Users\Mark\Documents\Visual C# Anwendungen\Berechnungs Tool\bin\Debug\netcoreapp2.1\Berechnungs Tool.deps.json
+C:\Users\Mark\Documents\Visual C# Anwendungen\Berechnungs Tool\bin\Debug\netcoreapp2.1\Berechnungs Tool.runtimeconfig.json
+C:\Users\Mark\Documents\Visual C# Anwendungen\Berechnungs Tool\bin\Debug\netcoreapp2.1\Berechnungs Tool.runtimeconfig.dev.json
+C:\Users\Mark\Documents\Visual C# Anwendungen\Berechnungs Tool\bin\Debug\netcoreapp2.1\Berechnungs Tool.dll
+C:\Users\Mark\Documents\Visual C# Anwendungen\Berechnungs Tool\bin\Debug\netcoreapp2.1\Berechnungs Tool.pdb
+C:\Users\Mark\Documents\Visual C# Anwendungen\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.csprojAssemblyReference.cache
+C:\Users\Mark\Documents\Visual C# Anwendungen\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Documents\Visual C# Anwendungen\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.AssemblyInfoInputs.cache
+C:\Users\Mark\Documents\Visual C# Anwendungen\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.AssemblyInfo.cs
+C:\Users\Mark\Documents\Visual C# Anwendungen\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.dll
+C:\Users\Mark\Documents\Visual C# Anwendungen\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.pdb
+D:\HSP Labor\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.dll
+D:\HSP Labor\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.pdb
+D:\HSP Labor\Berechnungs Tool\bin\Debug\netcoreapp2.1\Berechnungs Tool.deps.json
+D:\HSP Labor\Berechnungs Tool\bin\Debug\netcoreapp2.1\Berechnungs Tool.runtimeconfig.json
+D:\HSP Labor\Berechnungs Tool\bin\Debug\netcoreapp2.1\Berechnungs Tool.runtimeconfig.dev.json
+D:\HSP Labor\Berechnungs Tool\bin\Debug\netcoreapp2.1\Berechnungs Tool.dll
+D:\HSP Labor\Berechnungs Tool\bin\Debug\netcoreapp2.1\Berechnungs Tool.pdb
+D:\HSP Labor\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.csprojAssemblyReference.cache
+D:\HSP Labor\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.AssemblyInfoInputs.cache
+D:\HSP Labor\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.AssemblyInfo.cs

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MMeye\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MMeye\\.nuget\\packages"
+    ]
+  }
+}
