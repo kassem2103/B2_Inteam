@@ -29,7 +29,7 @@ namespace Berechnungs_Tool
 
 
 
-            int eingabe;                // gewünschtes Profil
+            string eingabe;                // gewünschtes Profil
 
             double flächeninhalt;      // Flächeninhalt
 
@@ -63,13 +63,13 @@ namespace Berechnungs_Tool
             Console.WriteLine("Profil GsDreieck:4");
             Console.WriteLine("Profil SymTrapez:5");
             Console.WriteLine("Geben Sie die entsprechende Zahl ein um fortzufahren");
-            eingabe = int.Parse(Console.ReadLine());
+            eingabe = string.Format(Console.ReadLine());
 
           
             Console.Clear();
 
 
-            if (eingabe == 1)                                           //abfrage für Rechteckprofil
+            if (eingabe == "1")                                           //abfrage für Rechteckprofil
             {
 
                 Console.WriteLine("Eingabe der Breite");                 //Eingabe der Parameter
@@ -143,7 +143,7 @@ namespace Berechnungs_Tool
                 }
             }
 
-            if (eingabe == 2)                                           //abfrage für Kreisprofil
+            else if (eingabe == "2")                                           //abfrage für Kreisprofil
             {
                 Console.WriteLine("Eingabe des Radius");
                 rr = double.Parse(Console.ReadLine());
@@ -195,7 +195,7 @@ namespace Berechnungs_Tool
                 }
             }
 
-            if (eingabe == 3)                                           //abfrage für Kreisring Profil
+            else if (eingabe == "3")                                           //abfrage für Kreisring Profil
             {
                 Console.WriteLine("Eingabe des Außen-Radius");
                 rr = double.Parse(Console.ReadLine());
@@ -253,7 +253,7 @@ namespace Berechnungs_Tool
                 }
             }
 
-            if (eingabe == 4)                                           // Abfrage für Gleichschenkeliges Dreieck
+            else if (eingabe == "4")                                           // Abfrage für Gleichschenkeliges Dreieck
             {
                 Console.WriteLine("Eingabe der Breite");
                 aa = double.Parse(Console.ReadLine());
@@ -327,7 +327,7 @@ namespace Berechnungs_Tool
             }
 
 
-            if (eingabe == 5)                                           // Abfrage für Symmetrisches Trapez
+            else if (eingabe == "5")                                           // Abfrage für Symmetrisches Trapez
             {
                 Console.WriteLine("Eingabe der Breite unten (b1)");
                 aa = double.Parse(Console.ReadLine());
@@ -393,6 +393,13 @@ namespace Berechnungs_Tool
                 {
                     goto sprungmarke;
                 }
+            }
+            else
+            {
+                Console.WriteLine("Falsche Eingabe");
+                Console.ReadKey();
+                Console.Clear();
+                goto sprungmarke;
             }
         }
     }

@@ -5,3 +5,9 @@ C:\Users\Mark\Documents\GitHub\B2_Inteam\Berechnungs-Tool\Berechnungs-Tool\obj\D
 C:\Users\Mark\Documents\GitHub\B2_Inteam\Berechnungs-Tool\Berechnungs-Tool\obj\Debug\Berechnungs-Tool.csproj.CoreCompileInputs.cache
 C:\Users\Mark\Documents\GitHub\B2_Inteam\Berechnungs-Tool\Berechnungs-Tool\obj\Debug\Berechnungs-Tool.exe
 C:\Users\Mark\Documents\GitHub\B2_Inteam\Berechnungs-Tool\Berechnungs-Tool\obj\Debug\Berechnungs-Tool.pdb
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool\Berechnungs-Tool\obj\Debug\Berechnungs-Tool.csprojAssemblyReference.cache
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool\Berechnungs-Tool\obj\Debug\Berechnungs-Tool.exe
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool\Berechnungs-Tool\obj\Debug\Berechnungs-Tool.pdb
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool\Berechnungs-Tool\bin\Debug\Berechnungs-Tool.exe.config
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool\Berechnungs-Tool\bin\Debug\Berechnungs-Tool.exe
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool\Berechnungs-Tool\bin\Debug\Berechnungs-Tool.pdb
