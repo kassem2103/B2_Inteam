@@ -30,3 +30,13 @@ C:\Users\Mark\Documents\GitHub\B2_Inteam\Berechnungs Tool\obj\Debug\netcoreapp2.
 C:\Users\Mark\Documents\GitHub\B2_Inteam\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.AssemblyInfo.cs
 C:\Users\Mark\Documents\GitHub\B2_Inteam\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.dll
 C:\Users\Mark\Documents\GitHub\B2_Inteam\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.pdb
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs Tool\bin\Debug\netcoreapp2.1\Berechnungs Tool.deps.json
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs Tool\bin\Debug\netcoreapp2.1\Berechnungs Tool.runtimeconfig.json
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs Tool\bin\Debug\netcoreapp2.1\Berechnungs Tool.runtimeconfig.dev.json
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs Tool\bin\Debug\netcoreapp2.1\Berechnungs Tool.dll
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs Tool\bin\Debug\netcoreapp2.1\Berechnungs Tool.pdb
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.csprojAssemblyReference.cache
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.AssemblyInfoInputs.cache
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.AssemblyInfo.cs
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.dll
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs Tool\obj\Debug\netcoreapp2.1\Berechnungs Tool.pdb

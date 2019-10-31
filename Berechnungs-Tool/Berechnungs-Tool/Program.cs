@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Berechnungs_Tool
 {
@@ -10,6 +11,7 @@ namespace Berechnungs_Tool
     {
         static void Main(string[] args)
         {
+          
             // Variablen deklarieren
 
 
@@ -51,8 +53,7 @@ namespace Berechnungs_Tool
             double Iyy;             // Flächenträgheitsmoment y-Achse
 
         sprungmarke:                                                                              // Sprungmarke
-
-
+          
             // Eingabe initialisieren
             Console.WriteLine("Welches Profil möchten Sie berechnen ?");
             Console.WriteLine("Zur Auswahl stehen:");
@@ -64,7 +65,7 @@ namespace Berechnungs_Tool
             Console.WriteLine("Geben Sie die entsprechende Zahl ein um fortzufahren");
             eingabe = int.Parse(Console.ReadLine());
 
-
+          
             Console.Clear();
 
 
@@ -131,10 +132,10 @@ namespace Berechnungs_Tool
                     Console.Write("Flächenträgheitsmoment Ixx=");
                     Console.WriteLine(Ixx);
                     Console.Write("Flächenträgheitsmoment Iyy=");
-                    Console.Write(Iyy);
+                    Console.WriteLine(Iyy);
 
+                   
                     Console.ReadLine();
-
                 }
                 if (material == 0)                                      //zurück zur Profil Auwahl <- anderes verfahren finden!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
                 {
