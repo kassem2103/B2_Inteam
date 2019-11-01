@@ -107,41 +107,72 @@ namespace Berechnungs_Tool
 
                     Iyy = (bb * Math.Pow(aa, 3)) / 12;
 
-                    masse = volumen * stahl;
+                    //masse = volumen * stahl;
 
-                    if (material == 1)                                      // Abfrage Material
+                    switch (material)                                      // Abfrage Material
                     {
+                        case 1:
 
+                            Console.Write("Breite (a):");
+                            Console.WriteLine(aa);
+                            Console.Write("Höhe (b):");
+                            Console.WriteLine(bb);
+                            Console.Write("Länge (c):");
+                            Console.WriteLine(cc);
+                            Console.Write("Der Flächeninhalt beträgt:");        // Ausgabe der Werte
+                            Console.WriteLine(flächeninhalt);
+                            Console.Write("Das Volumen beträgt:");
+                            Console.WriteLine(volumen);
+                            Console.Write("Die Masse beträgt:");
+                            Console.WriteLine(volumen * stahl);
+                            Console.WriteLine("Koordinatenursprung: Ecke unten Links");
+                            Console.Write("Der Schwerpunkt der x-Koordinate liegt bei:");
+                            Console.WriteLine(schwerpunktxs);
+                            Console.Write("Der Schwerpunkt der y-Koordinate liegt bei:");
+                            Console.WriteLine(schwerpunktys);
+                            Console.Write("Flächenträgheitsmoment Ixx=");
+                            Console.WriteLine(Ixx);
+                            Console.Write("Flächenträgheitsmoment Iyy=");
+                            Console.Write(Iyy);
 
-                        Console.Write("Breite (a):");
-                        Console.WriteLine(aa);
-                        Console.Write("Höhe (b):");
-                        Console.WriteLine(bb);
-                        Console.Write("Länge (c):");
-                        Console.WriteLine(cc);
-                        Console.Write("Der Flächeninhalt beträgt:");        // Ausgabe der Werte
-                        Console.WriteLine(flächeninhalt);
-                        Console.Write("Das Volumen beträgt:");
-                        Console.WriteLine(volumen);
-                        Console.Write("Die Masse beträgt:");
-                        Console.WriteLine(masse);
-                        Console.WriteLine("Koordinatenursprung: Ecke unten Links");
-                        Console.Write("Der Schwerpunkt der x-Koordinate liegt bei:");
-                        Console.WriteLine(schwerpunktxs);
-                        Console.Write("Der Schwerpunkt der y-Koordinate liegt bei:");
-                        Console.WriteLine(schwerpunktys);
-                        Console.Write("Flächenträgheitsmoment Ixx=");
-                        Console.WriteLine(Ixx);
-                        Console.Write("Flächenträgheitsmoment Iyy=");
-                        Console.Write(Iyy);
+                            Console.ReadLine();
+                            break;
+                        // }
 
-                        Console.ReadLine();
+                        // else if (material == 2)                                      // Abfrage Material
+                        // {
+
+                        case 2:
+                            Console.Write("Breite (a):");
+                            Console.WriteLine(aa);
+                            Console.Write("Höhe (b):");
+                            Console.WriteLine(bb);
+                            Console.Write("Länge (c):");
+                            Console.WriteLine(cc);
+                            Console.Write("Der Flächeninhalt beträgt:");        // Ausgabe der Werte
+                            Console.WriteLine(flächeninhalt);
+                            Console.Write("Das Volumen beträgt:");
+                            Console.WriteLine(volumen);
+                            Console.Write("Die Masse beträgt:");
+                            Console.WriteLine(volumen * aluminium);
+                            Console.WriteLine("Koordinatenursprung: Ecke unten Links");
+                            Console.Write("Der Schwerpunkt der x-Koordinate liegt bei:");
+                            Console.WriteLine(schwerpunktxs);
+                            Console.Write("Der Schwerpunkt der y-Koordinate liegt bei:");
+                            Console.WriteLine(schwerpunktys);
+                            Console.Write("Flächenträgheitsmoment Ixx=");
+                            Console.WriteLine(Ixx);
+                            Console.Write("Flächenträgheitsmoment Iyy=");
+                            Console.Write(Iyy);
+
+                            Console.ReadLine();
+                            break;
+                    }
                     
-                    }
-                    if (material == 0)                                      //zurück zur Profil Auwahl <- anderes verfahren finden!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-                    {
-                        goto sprungmarke;
-                    }
+                    //else if (material == 0)                                      //zurück zur Profil Auwahl <- anderes verfahren finden!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                    //{
+                    //    goto sprungmarke;
+                    //}
                 goto sprungmarke;
                 }
 
@@ -184,14 +215,33 @@ namespace Berechnungs_Tool
                         Console.Write("Das Volumen beträgt:");
                         Console.WriteLine(volumen);
                         Console.Write("Die Masse beträgt:");
-                        Console.WriteLine(masse);
+                        Console.WriteLine(volumen*stahl);
                         Console.Write("Flächenträgheitsmoment: Ixx=Iyy=");
                         Console.WriteLine(Ixx);
 
                         Console.ReadLine();
                     }
 
-                    if (material == 0)                                         // zurück zur Profilauswahl <- anderes verfahren finden!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                    if (material == 2)                                      // Material Abfrage
+                    {
+
+                        Console.Write("Radius (r):");
+                        Console.WriteLine(rr);
+                        Console.Write("Länge:");
+                        Console.WriteLine(cc);
+                        Console.Write("Der Flächeninhalt beträgt:");        // Ausgabe der Werte
+                        Console.WriteLine(flächeninhalt);
+                        Console.Write("Das Volumen beträgt:");
+                        Console.WriteLine(volumen);
+                        Console.Write("Die Masse beträgt:");
+                        Console.WriteLine(volumen * aluminium);
+                        Console.Write("Flächenträgheitsmoment: Ixx=Iyy=");
+                        Console.WriteLine(Ixx);
+
+                        Console.ReadLine();
+                    }
+
+                if (material == 0)                                         // zurück zur Profilauswahl <- anderes verfahren finden!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
                     {
                         goto sprungmarke;
                     }
@@ -243,14 +293,35 @@ namespace Berechnungs_Tool
                         Console.Write("Das Volumen beträgt:");
                         Console.WriteLine(volumen);
                         Console.Write("Die Masse beträgt:");
-                        Console.WriteLine(masse);
+                        Console.WriteLine(volumen * stahl);
                         Console.Write("Flächenträgheitsmoment Ixx=Iyy=");               // Ausgabe in cm^4 von anderen einheiten xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
                         Console.WriteLine(Ixx);
                         Console.ReadLine();
 
                     }
 
-                    if (material == 0)                                          //zurück zur Profilauswahl <- anderes verfahren finden! xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                    if (material == 2)                                      // Material Abfrage
+                    {
+
+                        Console.Write("Außen-Radius (R):");
+                        Console.WriteLine(rr);
+                        Console.Write("Innen-Radius (r):");
+                        Console.WriteLine(rri);
+                        Console.Write("Länge:");
+                        Console.WriteLine(cc);
+                        Console.Write("Der Flächeninhalt beträgt:");        // Ausgabe der Werte
+                        Console.WriteLine(flächeninhalt);
+                        Console.Write("Das Volumen beträgt:");
+                        Console.WriteLine(volumen);
+                        Console.Write("Die Masse beträgt:");
+                        Console.WriteLine(volumen * aluminium);
+                        Console.Write("Flächenträgheitsmoment Ixx=Iyy=");               // Ausgabe in cm^4 von anderen einheiten xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                        Console.WriteLine(Ixx);
+                        Console.ReadLine();
+
+                    }
+
+                if (material == 0)                                          //zurück zur Profilauswahl <- anderes verfahren finden! xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
                     {
                         goto sprungmarke;
                     }
@@ -310,7 +381,7 @@ namespace Berechnungs_Tool
                         Console.Write("Das Volumen beträgt:");
                         Console.WriteLine(volumen);
                         Console.Write("Die Masse beträgt:");
-                        Console.WriteLine(masse);
+                        Console.WriteLine(volumen * stahl);
                         Console.WriteLine("Koordinatenursprung: Ecke unten Links");
                         Console.Write("Der Schwerpunkt der x-Koordinate liegt bei:");
                         Console.WriteLine(schwerpunktxs);
@@ -323,7 +394,35 @@ namespace Berechnungs_Tool
                         Console.ReadLine();
 
                     }
-                    if (material == 0)                                                              // zurück zur Profilauswahl <- anderes verfahren finden!xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+                    if (material == 2)
+                    {
+
+                        Console.Write("Breite (a):");
+                        Console.WriteLine(aa);
+                        Console.Write("Höhe (h):");
+                        Console.WriteLine(bb);
+                        Console.Write("Länge (c):");
+                        Console.WriteLine(cc);
+                        Console.Write("Der Flächeninhalt beträgt:");                                // Ausgabe der Werte
+                        Console.WriteLine(flächeninhalt);
+                        Console.Write("Das Volumen beträgt:");
+                        Console.WriteLine(volumen);
+                        Console.Write("Die Masse beträgt:");
+                        Console.WriteLine(volumen * aluminium);
+                        Console.WriteLine("Koordinatenursprung: Ecke unten Links");
+                        Console.Write("Der Schwerpunkt der x-Koordinate liegt bei:");
+                        Console.WriteLine(schwerpunktxs);
+                        Console.Write("Der Schwerpunkt der y-Koordinate liegt bei:");
+                        Console.WriteLine(schwerpunktys);
+                        Console.Write("Flächenträgheitsmoment Ixx=");
+                        Console.WriteLine(Ixx);
+                        Console.Write("Flächenträgheitsmoment Iyy=");
+                        Console.WriteLine(Iyy);
+                        Console.ReadLine();
+
+                    }
+                if (material == 0)                                                              // zurück zur Profilauswahl <- anderes verfahren finden!xxxxxxxxxxxxxxxxxxxxxxxxxxxx
                     {
                         goto sprungmarke;
                     }
@@ -385,7 +484,7 @@ namespace Berechnungs_Tool
                         Console.Write("Das Volumen beträgt:");
                         Console.WriteLine(volumen);
                         Console.Write("Die Masse beträgt:");
-                        Console.WriteLine(masse);
+                        Console.WriteLine(volumen * stahl);
                         Console.Write("Flächenträgheitsmoment Ixx=");
                         Console.WriteLine(Ixx);
                         Console.Write("Flächenträgheitsmoment Iyy=");
@@ -393,7 +492,30 @@ namespace Berechnungs_Tool
                         Console.ReadLine();
                     }
 
-                    if (material == 0)                                                              // zurück zur Profilauswahl <- anderes verfahren finden!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+                    if (material == 2)
+                    {
+                        Console.Write("Breite unten (b1):");
+                        Console.WriteLine(aa);
+                        Console.Write("Breite oben (b2):");
+                        Console.WriteLine(bb);
+                        Console.Write("Höhe (h):");
+                        Console.WriteLine(cc);
+                        Console.Write("Länge:");
+                        Console.WriteLine(dd);
+                        Console.Write("Der Flächeninhalt beträgt:");                                // Ausgabe der Werte
+                        Console.WriteLine(flächeninhalt);
+                        Console.Write("Das Volumen beträgt:");
+                        Console.WriteLine(volumen);
+                        Console.Write("Die Masse beträgt:");
+                        Console.WriteLine(volumen * aluminium);
+                        Console.Write("Flächenträgheitsmoment Ixx=");
+                        Console.WriteLine(Ixx);
+                        Console.Write("Flächenträgheitsmoment Iyy=");
+                        Console.WriteLine(Iyy);
+                        Console.ReadLine();
+                    }
+
+                if (material == 0)                                                              // zurück zur Profilauswahl <- anderes verfahren finden!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
                     {
                         goto sprungmarke;
                     }
