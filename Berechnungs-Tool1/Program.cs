@@ -136,8 +136,19 @@ namespace Berechnungs_Tool
                         Console.Write(Iyy);
 
                         Console.ReadLine();
-                    
-                    }
+                    System.Windows.MessageBox.Show("Breite:" + aa.ToString() +
+                    Environment.NewLine + "Höhe:" + bb.ToString() +
+                    Environment.NewLine + "Länge:" + cc.ToString() +
+                    Environment.NewLine + "Der Flächeninhalt beträgt:" + flächeninhalt.ToString() +
+                    Environment.NewLine + "Das Volumen beträgt:" + volumen.ToString() +
+                    Environment.NewLine + "Die Masse beträgt:" + (volumen * stahl).ToString() +
+                    Environment.NewLine + "Der Schwerpunkt der x-Koordinate liegt bei:" + schwerpunktxs.ToString() +
+                    Environment.NewLine + "Der Schwerpunkt der y-Koordinate liegt bei:" + schwerpunktys.ToString() +
+                    Environment.NewLine + "Flächenträgheitsmoment Ixx:" + Ixx.ToString() +
+                    Environment.NewLine + "Flächenträgheitsmoment Iyy:" + Iyy.ToString() +
+                    Environment.NewLine + "Koordinatenursprung: Ecke unten Links");
+
+                }
 
                     if (material == 2)                                      // Abfrage Material
                     {
@@ -167,7 +178,20 @@ namespace Berechnungs_Tool
 
                         Console.ReadLine();
 
-                    }
+                    System.Windows.MessageBox.Show("Breite:" + aa.ToString() +
+                    Environment.NewLine + "Höhe:" + bb.ToString() +
+                    Environment.NewLine + "Länge:" + cc.ToString() +
+                    Environment.NewLine + "Der Flächeninhalt beträgt:" + flächeninhalt.ToString() +
+                    Environment.NewLine + "Das Volumen beträgt:" + volumen.ToString() +
+                    Environment.NewLine + "Die Masse beträgt:" + (volumen*aluminium).ToString() +
+                    Environment.NewLine + "Der Schwerpunkt der x-Koordinate liegt bei:" + schwerpunktxs.ToString() +
+                    Environment.NewLine + "Der Schwerpunkt der y-Koordinate liegt bei:" + schwerpunktys.ToString() +
+                    Environment.NewLine + "Flächenträgheitsmoment Ixx:" + Ixx.ToString() +
+                    Environment.NewLine + "Flächenträgheitsmoment Iyy:" + Iyy.ToString() +
+                    Environment.NewLine + "Koordinatenursprung: Ecke unten Links");
+
+
+                }
                 if (material == 0)                                      //zurück zur Profil Auwahl <- anderes verfahren finden!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
                     {
                         goto sprungmarke;
@@ -219,9 +243,18 @@ namespace Berechnungs_Tool
                         Console.WriteLine(Ixx);
 
                         Console.ReadLine();
-                    }
 
-                    if (material == 2)                                      // Material Abfrage
+                    System.Windows.MessageBox.Show("Radius:" + rr.ToString() +
+                    Environment.NewLine + "Länge:" + cc.ToString() +
+                    Environment.NewLine + "Der Flächeninhalt beträgt:" + flächeninhalt.ToString() +
+                    Environment.NewLine + "Das Volumen beträgt:" + volumen.ToString() +
+                    Environment.NewLine + "Die Masse beträgt:" + (volumen * stahl).ToString() +
+                    Environment.NewLine + "Flächenträgheitsmoment Ixx=Iyy:" + Ixx.ToString() +
+                    Environment.NewLine + "Koordinatenursprung: In der Mitte des Profils");
+
+                }
+
+                if (material == 2)                                      // Material Abfrage
                     {
 
                         Console.Write("Radius (r):");
@@ -238,7 +271,16 @@ namespace Berechnungs_Tool
                         Console.WriteLine(Ixx);
 
                         Console.ReadLine();
-                    }
+
+                    System.Windows.MessageBox.Show("Radius:" + rr.ToString() +
+                    Environment.NewLine + "Länge:" + cc.ToString() +
+                    Environment.NewLine + "Der Flächeninhalt beträgt:" + flächeninhalt.ToString() +
+                    Environment.NewLine + "Das Volumen beträgt:" + volumen.ToString() +
+                    Environment.NewLine + "Die Masse beträgt:" + (volumen * aluminium).ToString() +
+                    Environment.NewLine + "Flächenträgheitsmoment Ixx=Iyy:" + Ixx.ToString() +
+                    Environment.NewLine + "Koordinatenursprung: In der Mitte des Profils");
+
+                }
 
                 if (material == 0)                                         // zurück zur Profilauswahl <- anderes verfahren finden!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
                     {
@@ -297,7 +339,16 @@ namespace Berechnungs_Tool
                         Console.WriteLine(Ixx);
                         Console.ReadLine();
 
-                    }
+                    System.Windows.MessageBox.Show("Außen-Radius:" + rr.ToString() +
+                    Environment.NewLine + "Innen-Radius:" + rri.ToString() +
+                    Environment.NewLine + "Länge:" + cc.ToString() +
+                    Environment.NewLine + "Der Flächeninhalt beträgt:" + flächeninhalt.ToString() +
+                    Environment.NewLine + "Das Volumen beträgt:" + volumen.ToString() +
+                    Environment.NewLine + "Die Masse beträgt:" + (volumen*stahl).ToString() +
+                    Environment.NewLine + "Flächenträgheitsmoment Ixx=Iyy:" + Ixx.ToString() +
+                    Environment.NewLine + "Koordinatenursprung: In der Mitte des Profils");
+
+                }
 
                     if (material == 2)                                      // Material Abfrage
                     {
@@ -318,7 +369,16 @@ namespace Berechnungs_Tool
                         Console.WriteLine(Ixx);
                         Console.ReadLine();
 
-                    }
+                    System.Windows.MessageBox.Show("Außen-Radius:" + rr.ToString() +
+                   Environment.NewLine + "Innen-Radius:" + rri.ToString() +
+                   Environment.NewLine + "Länge:" + cc.ToString() +
+                   Environment.NewLine + "Der Flächeninhalt beträgt:" + flächeninhalt.ToString() +
+                   Environment.NewLine + "Das Volumen beträgt:" + volumen.ToString() +
+                   Environment.NewLine + "Die Masse beträgt:" + (volumen * volumen).ToString() +
+                   Environment.NewLine + "Flächenträgheitsmoment Ixx=Iyy:" + Ixx.ToString() +
+                   Environment.NewLine + "Koordinatenursprung: In der Mitte des Profils");
+
+                }
 
                 if (material == 0)                                          //zurück zur Profilauswahl <- anderes verfahren finden! xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
                     {
@@ -392,7 +452,18 @@ namespace Berechnungs_Tool
                         Console.WriteLine(Iyy);
                         Console.ReadLine();
 
-                    }
+                    System.Windows.MessageBox.Show("Breite:" + aa.ToString() +
+                    Environment.NewLine + "Höhe:" + bb.ToString() +
+                    Environment.NewLine + "Länge:" + cc.ToString() +
+                    Environment.NewLine + "Der Flächeninhalt beträgt:" + flächeninhalt.ToString() +
+                    Environment.NewLine + "Das Volumen beträgt:" + volumen.ToString() +
+                    Environment.NewLine + "Die Masse beträgt:" + (volumen * stahl).ToString() +
+                    Environment.NewLine + "Der Schwerpunkt der x-Koordinate liegt bei:" + schwerpunktxs.ToString() +
+                    Environment.NewLine + "Der Schwerpunkt der y-Koordinate liegt bei:" + schwerpunktys.ToString() +
+                    Environment.NewLine + "Flächenträgheitsmoment Ixx:" + Ixx.ToString() +
+                    Environment.NewLine + "Flächenträgheitsmoment Iyy:" + Iyy.ToString() +
+                    Environment.NewLine + "Koordinatenursprung: Ecke unten Links");
+                }
 
                     if (material == 2)
                     {
@@ -420,7 +491,19 @@ namespace Berechnungs_Tool
                         Console.WriteLine(Iyy);
                         Console.ReadLine();
 
-                    }
+                    System.Windows.MessageBox.Show("Breite:" + aa.ToString() +
+                    Environment.NewLine + "Höhe:" + bb.ToString() +
+                    Environment.NewLine + "Länge:" + cc.ToString() +
+                    Environment.NewLine + "Der Flächeninhalt beträgt:" + flächeninhalt.ToString() +
+                    Environment.NewLine + "Das Volumen beträgt:" + volumen.ToString() +
+                    Environment.NewLine + "Die Masse beträgt:" + (volumen * aluminium).ToString() +
+                    Environment.NewLine + "Der Schwerpunkt der x-Koordinate liegt bei:" + schwerpunktxs.ToString() +
+                    Environment.NewLine + "Der Schwerpunkt der y-Koordinate liegt bei:" + schwerpunktys.ToString() +
+                    Environment.NewLine + "Flächenträgheitsmoment Ixx:" + Ixx.ToString() +
+                    Environment.NewLine + "Flächenträgheitsmoment Iyy:" + Iyy.ToString() +
+                    Environment.NewLine + "Koordinatenursprung: Ecke unten Links");
+
+                }
                 if (material == 0)                                                              // zurück zur Profilauswahl <- anderes verfahren finden!xxxxxxxxxxxxxxxxxxxxxxxxxxxx
                     {
                         goto sprungmarke;
@@ -489,9 +572,21 @@ namespace Berechnungs_Tool
                         Console.Write("Flächenträgheitsmoment Iyy=");
                         Console.WriteLine(Iyy);
                         Console.ReadLine();
-                    }
 
-                    if (material == 2)
+                    System.Windows.MessageBox.Show("Breite unten:" + aa.ToString() +
+                    Environment.NewLine + "Breite oben:" + bb.ToString() +
+                    Environment.NewLine + "Höhe:" + cc.ToString() +
+                    Environment.NewLine + "Der Flächeninhalt beträgt:" + flächeninhalt.ToString() +
+                    Environment.NewLine + "Das Volumen beträgt:" + volumen.ToString() +
+                    Environment.NewLine + "Die Masse beträgt:" + (volumen * stahl).ToString() +
+                    Environment.NewLine + "Flächenträgheitsmoment Ixx:" + Ixx.ToString() +
+                    Environment.NewLine + "Flächenträgheitsmoment Iyy:" + Iyy.ToString() +
+                     Environment.NewLine + "Koordinatenursprung: Ecke unten Links");
+
+
+                }
+
+                if (material == 2)
                     {
 
                         Console.Write("Breite unten (b1):");
@@ -513,7 +608,18 @@ namespace Berechnungs_Tool
                         Console.Write("Flächenträgheitsmoment Iyy=");
                         Console.WriteLine(Iyy);
                         Console.ReadLine();
-                    }
+
+                    System.Windows.MessageBox.Show("Breite unten:" + aa.ToString() +
+                    Environment.NewLine + "Breite oben:" + bb.ToString() +
+                    Environment.NewLine + "Höhe:" + cc.ToString() +
+                    Environment.NewLine + "Der Flächeninhalt beträgt:" + flächeninhalt.ToString() +
+                    Environment.NewLine + "Das Volumen beträgt:" + volumen.ToString() +
+                    Environment.NewLine + "Die Masse beträgt:" + (volumen * volumen).ToString() +
+                    Environment.NewLine + "Flächenträgheitsmoment Ixx:" + Ixx.ToString() +
+                    Environment.NewLine + "Flächenträgheitsmoment Iyy:" + Iyy.ToString() +
+                     Environment.NewLine + "Koordinatenursprung: Ecke unten Links");
+
+                }
 
                 if (material == 0)                                                              // zurück zur Profilauswahl <- anderes verfahren finden!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
                     {
