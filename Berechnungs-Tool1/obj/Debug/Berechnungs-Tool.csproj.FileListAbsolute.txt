@@ -17,3 +17,9 @@ C:\Users\tolib\OneDrive\Desktop\Berechnungs-Tool1\bin\Debug\Berechnungs-Tool.pdb
 C:\Users\tolib\OneDrive\Desktop\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.csprojAssemblyReference.cache
 C:\Users\tolib\OneDrive\Desktop\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.exe
 C:\Users\tolib\OneDrive\Desktop\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.pdb
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool1\bin\Debug\Berechnungs-Tool.exe.config
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool1\bin\Debug\Berechnungs-Tool.exe
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool1\bin\Debug\Berechnungs-Tool.pdb
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.csprojAssemblyReference.cache
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.exe
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.pdb
