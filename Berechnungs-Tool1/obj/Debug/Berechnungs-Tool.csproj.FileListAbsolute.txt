@@ -17,9 +17,18 @@ C:\Users\tolib\OneDrive\Desktop\Berechnungs-Tool1\bin\Debug\Berechnungs-Tool.pdb
 C:\Users\tolib\OneDrive\Desktop\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.csprojAssemblyReference.cache
 C:\Users\tolib\OneDrive\Desktop\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.exe
 C:\Users\tolib\OneDrive\Desktop\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.pdb
+<<<<<<< HEAD
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool1\bin\Debug\Berechnungs-Tool.exe.config
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool1\bin\Debug\Berechnungs-Tool.exe
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool1\bin\Debug\Berechnungs-Tool.pdb
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.csprojAssemblyReference.cache
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.exe
+C:\Users\tolib\OneDrive\Dokumente\GitHub\B2_Inteam\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.pdb
+=======
 C:\Users\malek\Documents\GitHub\B2_Inteam\Berechnungs-Tool1\bin\Debug\Berechnungs-Tool.exe.config
 C:\Users\malek\Documents\GitHub\B2_Inteam\Berechnungs-Tool1\bin\Debug\Berechnungs-Tool.exe
 C:\Users\malek\Documents\GitHub\B2_Inteam\Berechnungs-Tool1\bin\Debug\Berechnungs-Tool.pdb
 C:\Users\malek\Documents\GitHub\B2_Inteam\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.csprojAssemblyReference.cache
 C:\Users\malek\Documents\GitHub\B2_Inteam\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.exe
 C:\Users\malek\Documents\GitHub\B2_Inteam\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.pdb
+>>>>>>> 9e83a58f4eed07537b1bff521f359079d69b475c
