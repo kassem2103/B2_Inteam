@@ -1,0 +1,12 @@
+C:\Users\user\Documents\GitHub\B2_Inteam\InTeam G\InTeam G\obj\Debug\InTeam G.csprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\B2_Inteam\InTeam G\InTeam G\obj\Debug\App.g.cs
+C:\Users\user\Documents\GitHub\B2_Inteam\InTeam G\InTeam G\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Documents\GitHub\B2_Inteam\InTeam G\InTeam G\obj\Debug\InTeam G_MarkupCompile.cache
+C:\Users\user\Documents\GitHub\B2_Inteam\InTeam G\InTeam G\obj\Debug\InTeam G_MarkupCompile.lref
+C:\Users\user\Documents\GitHub\B2_Inteam\InTeam G\InTeam G\obj\Debug\Views\ShellView.g.cs
+C:\Users\user\Documents\GitHub\B2_Inteam\InTeam\InTeam G\obj\Debug\InTeam G.csprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\B2_Inteam\InTeam\InTeam G\obj\Debug\Views\ShellView.g.cs
+C:\Users\user\Documents\GitHub\B2_Inteam\InTeam\InTeam G\obj\Debug\App.g.cs
+C:\Users\user\Documents\GitHub\B2_Inteam\InTeam\InTeam G\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Documents\GitHub\B2_Inteam\InTeam\InTeam G\obj\Debug\InTeam G_MarkupCompile.cache
+C:\Users\user\Documents\GitHub\B2_Inteam\InTeam\InTeam G\obj\Debug\InTeam G_MarkupCompile.lref

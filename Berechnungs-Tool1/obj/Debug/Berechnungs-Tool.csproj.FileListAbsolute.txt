@@ -32,3 +32,10 @@ C:\Users\malek\Documents\GitHub\B2_Inteam\Berechnungs-Tool1\obj\Debug\Berechnung
 C:\Users\malek\Documents\GitHub\B2_Inteam\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.exe
 C:\Users\malek\Documents\GitHub\B2_Inteam\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.pdb
 >>>>>>> 9e83a58f4eed07537b1bff521f359079d69b475c
+C:\Users\user\Documents\GitHub\B2_Inteam\Berechnungs-Tool1\bin\Debug\Berechnungs-Tool.exe.config
+C:\Users\user\Documents\GitHub\B2_Inteam\Berechnungs-Tool1\bin\Debug\Berechnungs-Tool.exe
+C:\Users\user\Documents\GitHub\B2_Inteam\Berechnungs-Tool1\bin\Debug\Berechnungs-Tool.pdb
+C:\Users\user\Documents\GitHub\B2_Inteam\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.csprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\B2_Inteam\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\B2_Inteam\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.exe
+C:\Users\user\Documents\GitHub\B2_Inteam\Berechnungs-Tool1\obj\Debug\Berechnungs-Tool.pdb
