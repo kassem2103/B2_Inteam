@@ -1,0 +1,130 @@
+﻿<Window x:Class="WPFUI.Views.ShellView"
+      
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFUI.Views"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        mc:Ignorable="d"  Height="600" Width="1024" Visibility="Visible" WindowStyle="None">
+    <Grid>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <Grid x:Name="GridBar" Grid.ColumnSpan="2" Background="#FF5441B1" MouseDown="GridBar_MouseDown">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" >
+                <Button x:Name="ButtonFechar"  Width="25" Height="25" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="ButtonFechar_Click">
+                    <materialDesign:PackIcon Kind="Power"/>
+                </Button>
+            </StackPanel>
+
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="LightGray" Offset="1"/>
+                    <GradientStop Color="#FFE6E6E6"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.Effect>
+                <DropShadowEffect BlurRadius="20" Color="#FFDEDEDE" RenderingBias="Quality" ShadowDepth="1"/>
+            </Grid.Effect>
+
+            <Grid Background="#FFA46FE4">
+                <TextBlock Text="Profil Rechner" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="WS Simple Gallifreyan" Foreground="#FFBC96EA" FontSize="20"/>
+                <TextBlock Text="InTeam" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="WS Simple Gallifreyan" Foreground="#FFBC96EA" FontSize="20" Margin="10"/>
+            </Grid>
+
+            <StackPanel Grid.Row="1">
+                <Button x:Name="LoadRechteckprofil" Margin="10" Background="#FF8522BD" BorderBrush="#FF8522BD">
+                    <Grid Width="150">
+                        <materialDesign:PackIcon Kind="ViewDashboard" VerticalAlignment="Center"/>
+                        <TextBlock HorizontalAlignment="Center" Text="RECHTECKPROFIL" FontFamily="Champagne &amp; Limousines" Foreground="White"/>
+                    </Grid>
+                </Button>
+
+
+                <Button x:Name="LoadKreisprofil" Margin="10" Background="#FF8522BD" BorderBrush="#FF8522BD">
+                    <Grid Width="150">
+                        <materialDesign:PackIcon Kind="ViewDashboard" VerticalAlignment="Center"/>
+                        <TextBlock HorizontalAlignment="Center" Text="KREISPROFIL" FontFamily="Champagne &amp; Limousines" Foreground="White"/>
+                    </Grid>
+                </Button>
+
+                <Button x:Name="LoadRohrprofil" Margin="10" Background="#FF8522BD" BorderBrush="#FF8522BD">
+                    <Grid Width="150">
+                        <materialDesign:PackIcon Kind="ViewDashboard" VerticalAlignment="Center"/>
+                        <TextBlock HorizontalAlignment="Center" Text="ROHRPROFIL" FontFamily="Champagne &amp; Limousines" Foreground="White"/>
+                    </Grid>
+                </Button>
+
+                <Button x:Name="LoadTprofil" Margin="10" Background="#FF8522BD" BorderBrush="#FF8522BD">
+                    <Grid Width="150">
+                        <materialDesign:PackIcon Kind="ViewDashboard" VerticalAlignment="Center"/>
+                        <TextBlock HorizontalAlignment="Center" Text="T-PROFIL" FontFamily="Champagne &amp; Limousines" Foreground="White"/>
+                    </Grid>
+                </Button>
+
+                <Button x:Name="LoadUprofil" Margin="10" Background="#FF8522BD" BorderBrush="#FF8522BD">
+                    <Grid Width="150">
+                        <materialDesign:PackIcon Kind="ViewDashboard" VerticalAlignment="Center"/>
+                        <TextBlock HorizontalAlignment="Center" Text="U-PROFIL" FontFamily="Champagne &amp; Limousines" Foreground="White"/>
+                    </Grid>
+                </Button>
+
+                <Button x:Name="LoadZprofil" Margin="10" Background="#FF8522BD" BorderBrush="#FF8522BD">
+                    <Grid Width="150">
+                        <materialDesign:PackIcon Kind="ViewDashboard" VerticalAlignment="Center"/>
+                        <TextBlock HorizontalAlignment="Center" Text="Z-PROFIL" FontFamily="Champagne &amp; Limousines" Foreground="White"/>
+                    </Grid>
+                </Button>
+
+                <Button x:Name="LoadHprofil" Margin="10" Background="#FF8522BD" BorderBrush="#FF8522BD">
+                    <Grid Width="150">
+                        <materialDesign:PackIcon Kind="ViewDashboard" VerticalAlignment="Center"/>
+                        <TextBlock HorizontalAlignment="Center" Text="H-PROFIL" FontFamily="Champagne &amp; Limousines" Foreground="White"/>
+                    </Grid>
+                </Button>
+
+                <Button x:Name="LoadWinkelprofil" Margin="10" Background="#FF8522BD" BorderBrush="#FF8522BD">
+                    <Grid Width="150">
+                        <materialDesign:PackIcon Kind="ViewDashboard" VerticalAlignment="Center"/>
+
+                        <TextBlock HorizontalAlignment="Center" Text="WINKEL-PROFIL" FontFamily="Champagne &amp; Limousines" Foreground="White"/>
+                    </Grid>
+                </Button>
+
+                <Button x:Name="LoadRechteckRohrprofil" Margin="10" Background="#FF8522BD" BorderBrush="#FF8522BD">
+                    <Grid Width="150">
+                        <materialDesign:PackIcon Kind="ViewDashboard" VerticalAlignment="Center"/>
+                        <TextBlock HorizontalAlignment="Center" Text="   RECHTECKROHRPROFIL" FontFamily="Champagne &amp; Limousines" Foreground="White"/>
+                    </Grid>
+                </Button>
+
+
+                <Button x:Name="LoadMeineProfile" Margin="10" Background="#FF8522BD" BorderBrush="#FF8522BD">
+                    <Grid Width="150">
+                        <materialDesign:PackIcon Kind="Settings" VerticalAlignment="Center"/>
+                        <TextBlock HorizontalAlignment="Center" Text="MEINE PROFILE" FontFamily="Champagne &amp; Limousines" Foreground="White"/>
+                    </Grid>
+                </Button>
+
+            </StackPanel>
+
+
+            <ContentControl   x:Name="ActiveItem" Margin="205,0,-816,0.2" Grid.RowSpan="2"  />
+        </Grid>
+    </Grid>
+
+</Window>
