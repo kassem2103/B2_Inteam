@@ -22,15 +22,28 @@ namespace WPFUI.Views
         public ShellView()
         {
             InitializeComponent();
+
+
         }
+
+
+        private void GridBar_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            DragMove(); // Macht dass sich das Fenster bewegen kann
+        }
+
+        //Zum Maximieren des Fensters
         public void ButtonFechar_Click(object sender, RoutedEventArgs e)
         {
             Application.Current.Shutdown();
         }
 
-        private void GridBar_MouseDown(object sender, MouseButtonEventArgs e)
+        // Zum minimieren des Fensters
+        public void ButtonMin_Click(object sender, RoutedEventArgs e)
         {
-
+             WindowState = WindowState.Minimized;
         }
+
+
     }
 }

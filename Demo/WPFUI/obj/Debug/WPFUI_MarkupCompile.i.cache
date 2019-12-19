@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\
 WPFUI
 none
 false
 DEBUG;TRACE
-C:\Users\user\Desktop\Demo\WPFUI\App.xaml
-6-650239602
+C:\Users\Kassem\Desktop\Demo\WPFUI\App.xaml
+12-248751545
+1-117967691
+33174144522
+87-685286143
+Views\HprofilView.xaml;Views\MeineProfileView.xaml;Views\RechteckprofilView.xaml;Views\KreisprofilView.xaml;Views\Rechteckrohrprofil.xaml;Views\RohrprofilView.xaml;Views\ShellView.xaml;Views\TprofilView.xaml;Views\UprofilView.xaml;Views\VierkantrohrprofilView.xaml;Views\WinkelprofilView.xaml;Views\ZprofilView.xaml;
 
-20-594178471
-70-654030033
-Views\RechteckprofilView.xaml;Views\KreisprofilView.xaml;Views\RohrprofilView.xaml;Views\ShellView.xaml;Views\TprofilView.xaml;Views\UprofilView.xaml;
-
-True
+False
 

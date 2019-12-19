@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\user\Desktop\Demo\WPFUI\App.xaml
-6-650239602
-
-19-165874958
-70-654030033
-Views\RechteckprofilView.xaml;Views\KreisprofilView.xaml;Views\RohrprofilView.xaml;Views\ShellView.xaml;Views\TprofilView.xaml;Views\UprofilView.xaml;
+12-248751545
+1-117967691
+32-1129684558
+87-1044363599
+Views\HprofilView.xaml;Views\MeineProfileView.xaml;Views\RechteckprofilView.xaml;Views\KreisprofilView.xaml;Views\Rechteckrohrprofil.xaml;Views\RohrprofilView.xaml;Views\ShellView.xaml;Views\TprofilView.xaml;Views\UprofilView.xaml;Views\VierkantrohrprofilView.xaml;Views\WinkelprofilView.xaml;Views\ZprofilView.xaml;
 
 False
 

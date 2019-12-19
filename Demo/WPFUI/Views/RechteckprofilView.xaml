@@ -7,6 +7,7 @@
              mc:Ignorable="d" Background="#FFEEEDED" FontSize="20" FontFamily="Champagne &amp; Limousines"
              d:DesignHeight="500" d:DesignWidth="816">
     <Grid>
+        
         <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
@@ -14,6 +15,8 @@
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
+            
+            
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
@@ -41,6 +44,7 @@
         <Border BorderBrush="#FF179AC8" BorderThickness="2" Grid.Column="0" Grid.Row="9" Grid.ColumnSpan="2"/>
         <Border BorderBrush="#FF179AC8" BorderThickness="2" Grid.Column="0" Grid.Row="10" Grid.ColumnSpan="2"/>
 
+        <Border BorderBrush="#FF179AC8" BorderThickness="2" Grid.Column="2" Grid.Row="1" />
         <Border BorderBrush="#FF179AC8" BorderThickness="2" Grid.Column="2" Grid.Row="2" />
         <Border BorderBrush="#FF179AC8" BorderThickness="2" Grid.Column="2" Grid.Row="3" />
         <Border BorderBrush="#FF179AC8" BorderThickness="2" Grid.Column="2" Grid.Row="4" />
@@ -51,6 +55,8 @@
         <Border BorderBrush="#FF179AC8" BorderThickness="2" Grid.Column="2" Grid.Row="9" />
         <Border BorderBrush="#FF179AC8" BorderThickness="2" Grid.Column="2" Grid.Row="10" />
         <Border BorderBrush="#FF179AC8" BorderThickness="2" Grid.Column="3" Grid.Row="10" />
+        <Border BorderBrush="#FF179AC8" BorderThickness="2" Grid.Column="3" Grid.Row="11" />
+        <Border BorderBrush="#FF179AC8" BorderThickness="2" Grid.Column="4" Grid.ColumnSpan="2" Grid.Row="11" />
         <Border BorderBrush="#FF179AC8" BorderThickness="2" Grid.Column="3" Grid.Row="9" />
         <Border BorderBrush="#FF179AC8" BorderThickness="2" Grid.Column="3" Grid.Row="9" />
         <Border BorderBrush="#FF179AC8" BorderThickness="2" Grid.Column="4" Grid.Row="9" />
@@ -78,28 +84,28 @@
          Text="Flächenträgheitsmoment"  FontWeight="Bold" Margin="10" Grid.ColumnSpan="2" Background="AliceBlue"/>
 
        <!--Die Textblöcke für die Ausgaben-->
-        <TextBlock x:Name="volumen"  Grid.Column="2" Grid.Row="6" Background="White" 
-         FontWeight="Bold"  />
-        <TextBlock x:Name="gewicht"  Grid.Column="2" Grid.Row="7" Background="White" 
-         FontWeight="Bold" />
-        <TextBlock x:Name="querschnitt"  Grid.Column="2" Grid.Row="8" Background="White" 
-         FontWeight="Bold" />
-        <TextBlock x:Name="spx" Text=" x:                    "  Grid.Column="2" Grid.Row="9" Background="White" 
-         FontWeight="Bold" HorizontalAlignment="Left" Margin="5"  />
-        <TextBlock x:Name="spy" Text=" y:                    "   Grid.Column="3" Grid.Row="9" Background="White" 
-         FontWeight="Bold" HorizontalAlignment="Left" Margin="5"  />
-        <TextBlock x:Name="spz" Text=" z:                    "   Grid.Column="4" Grid.Row="9" Background="White" 
+        <TextBlock x:Name="volumen"  Grid.Column="2" Grid.Row="6" Background="#FF8522BD" Foreground="White"
+         FontWeight="Bold"  Margin="5"/>
+        <TextBlock x:Name="gewicht"  Grid.Column="2" Grid.Row="7" Background="#FF8522BD" Foreground="White"
+         FontWeight="Bold" Margin="5" />
+        <TextBlock x:Name="querschnitt"  Grid.Column="2" Grid.Row="8" Background="#FF8522BD" Foreground="White" 
+         FontWeight="Bold" Margin="5" />
+        <TextBlock x:Name="spx" Text=" x:                    "  Grid.Column="2" Grid.Row="9" Background="#FF8522BD" Foreground="White" 
          FontWeight="Bold" HorizontalAlignment="Left" Margin="5"   />
-        <TextBlock x:Name="ixx"  Grid.Column="2" Grid.Row="10" Background="White" 
+        <TextBlock x:Name="spy" Text=" y:                    "   Grid.Column="3" Grid.Row="9" Background="#FF8522BD" Foreground="White" 
+         FontWeight="Bold" HorizontalAlignment="Left"  Margin="5"/>
+        <TextBlock x:Name="spz" Text=" z:                    "   Grid.Column="4" Grid.Row="9" Background="#FF8522BD" Foreground="White"
+         FontWeight="Bold" HorizontalAlignment="Left" Margin="5"   />
+        <TextBlock x:Name="ixx"  Grid.Column="2" Grid.Row="10" Background="#FF8522BD" Foreground="White" 
          FontWeight="Bold" Margin="5"/>
-        <TextBlock x:Name="iyy"  Grid.Column="3" Grid.Row="10" Background="White" 
+        <TextBlock x:Name="iyy"  Grid.Column="3" Grid.Row="10" Background="#FF8522BD" Foreground="White"
          FontWeight="Bold" Margin="5" />
 
         <!--Die Textboxen für die Eingaben-->
-        <TextBox x:Name="teilNr" Grid.Column="2" Grid.Row="1" FontSize="22" FontWeight="Bold"  />
-        <TextBox x:Name="länge" Grid.Column="2" Grid.Row="2"  FontSize="22" FontWeight="Bold" />
-        <TextBox x:Name="breite" Grid.Column="2" Grid.Row="3" FontSize="22" FontWeight="Bold" />
-        <TextBox x:Name="höhe" Grid.Column="2" Grid.Row="4"   FontSize="22" FontWeight="Bold" />
+        <TextBox x:Name="teilNr" Grid.Column="2" Grid.Row="1" FontSize="22" FontWeight="Bold" Background="#FF8522BD" Foreground="White" Margin="5" />
+        <TextBox x:Name="länge" Grid.Column="2" Grid.Row="2"  FontSize="22" FontWeight="Bold" Background="#FF8522BD" Foreground="White" Margin="5"/>
+        <TextBox x:Name="breite" Grid.Column="2" Grid.Row="3" FontSize="22" FontWeight="Bold" Background="#FF8522BD" Foreground="White" Margin="5"/>
+        <TextBox x:Name="höhe" Grid.Column="2" Grid.Row="4"   FontSize="22" FontWeight="Bold" Background="#FF8522BD" Foreground="White" Margin="5"/>
         
         <!--Einheiten Ausgabe-->
         <TextBlock x:Name="einheitVolumen" Text="       " Grid.Column="3" Grid.Row="6" HorizontalAlignment="Left" Background="#FFE2E2E2" />
@@ -108,10 +114,16 @@
         <TextBlock x:Name="einheitMoment" Text="       " Grid.Column="4" Grid.Row="10" HorizontalAlignment="Left" Background="#FFE2E2E2"  />
 
         <!--Bild Darstellung-->
-        <Image Grid.ColumnSpan="3" Grid.Column="3" HorizontalAlignment="Right"  Grid.Row="1" Grid.RowSpan="6" VerticalAlignment="Top"  Source="/WPFUI;component/Media/Rechteckprofil.PNG"/>
+        <Image x:Name="Bild" Grid.ColumnSpan="3" Grid.Column="3" HorizontalAlignment="Right"  Grid.Row="1" Grid.RowSpan="6" VerticalAlignment="Top"  Source="/WPFUI;component/Media/Rechteckprofil.PNG"/>
 
         <!--Material wird hier in einer Textbox ausgewählt-->
-        <ComboBox x:Name="material" Grid.Column="2" Grid.Row="5"  >
+        <ComboBox x:Name="material" Grid.Column="2" Grid.Row="5"  Foreground="White" FontWeight="Bold" >
+            <ComboBox.Resources>
+                <!--color of ComboBoxItem-->
+                <SolidColorBrush x:Key="{x:Static SystemColors.WindowBrushKey}" Color="#FF8522BD" />
+                <!--Mouse over color of ComboBoxItem-->
+                <SolidColorBrush x:Key="{x:Static SystemColors.HighlightBrushKey}" Color="Red" />
+            </ComboBox.Resources>
             <ComboBox.ItemTemplate>
                 <DataTemplate>
                     <TextBlock Text="{Binding MaterialName}"/>
@@ -119,31 +131,47 @@
             </ComboBox.ItemTemplate> 
         </ComboBox>
         <!--Einheiten Auswählen Länge-->
-        <ComboBox x:Name="einheitLänge" Grid.Column="3" Grid.Row="2" HorizontalAlignment="Left"  >
+        <!--<ComboBox x:Name="einheitLänge" Grid.Column="3" Grid.Row="2" HorizontalAlignment="Left"  >
             <ComboBoxItem>mm</ComboBoxItem>
-            <ComboBoxItem>cm</ComboBoxItem>
-            <ComboBoxItem>m</ComboBoxItem>
-        </ComboBox>
-        <!--Einheiten Auswählen Breite -->
-        <ComboBox  x:Name="einheitBreite" Grid.Column="3" Grid.Row="3" HorizontalAlignment="Left" >
-            <ComboBoxItem>mm</ComboBoxItem>
-            <ComboBoxItem>cm</ComboBoxItem>
-            <ComboBoxItem>m</ComboBoxItem>
-        </ComboBox>
-        <!--Einheiten Auswählen Höhe -->
-        <ComboBox  x:Name="einheitHöhe" Grid.Column="3" Grid.Row="4" HorizontalAlignment="Left" >
-            <ComboBoxItem>mm</ComboBoxItem>
-            <ComboBoxItem>cm</ComboBoxItem>
-            <ComboBoxItem>m</ComboBoxItem>
-        </ComboBox>
+
         
-        
+
+        </ComboBox>-->
+
+
+
+        <Image Grid.Column="3" HorizontalAlignment="Left"  Grid.Row="2" VerticalAlignment="Top"  Source="/WPFUI;component/Media/mm.png"    Margin="5"/>
+        <Image Grid.Column="3" HorizontalAlignment="Left"  Grid.Row="3" VerticalAlignment="Top"  Source="/WPFUI;component/Media/mm.png"   Margin="5" />
+        <Image Grid.Column="3" HorizontalAlignment="left"  Grid.Row="4" VerticalAlignment="Top"  Source="/WPFUI;component/Media/mm.png"    Margin="5"/>
+        <Image Grid.Column="3" HorizontalAlignment="left"  Grid.Row="6" VerticalAlignment="Top"  Source="/WPFUI;component/Media/mm^3.png"     Margin="5"/>
+        <Image Grid.Column="3" HorizontalAlignment="left"  Grid.Row="7" VerticalAlignment="Top"  Source="/WPFUI;component/Media/Kg.png"   Margin="5"  />
+        <Image Grid.Column="3" HorizontalAlignment="left"  Grid.Row="8" VerticalAlignment="Top"  Source="/WPFUI;component/Media/mm^2.png"    Margin="5"  />
+        <Image Grid.Column="4" HorizontalAlignment="left"  Grid.Row="10" VerticalAlignment="Top"  Source="/WPFUI;component/Media/cm^4.png"   Margin="5"  />
+
+
+
+        <TextBlock Grid.Column="0" Grid.ColumnSpan="2"  Background="#FF8522BD" />
+        <TextBlock Text="Rechteckprofil" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="26" Grid.Column="0" Grid.ColumnSpan="2"  Foreground="White" />
+
         <Button x:Name="berechnen" Content="Berechnen" Grid.Column="0" Grid.Row="11"
          FontWeight="Bold" Background="#FF8522BD" Click="Berechnen_Click" Foreground="White"/>
         <Button x:Name="verwerfen" Content="Verwerfen" Grid.Column="1" Grid.Row="11"
          FontWeight="Bold" Background="#FF8522BD" Click="Verwerfen_Click" Foreground="White"/>
         <Button x:Name="speichern" Content="Speichern" Grid.Column="2" Grid.Row="11"
-         FontWeight="Bold" Background="#FF8522BD" Foreground="White"/>
+         FontWeight="Bold" Background="#FF8522BD" Foreground="White" Click="Speichern_Click"/>
+        <Button x:Name="erzeugen" Content="Part Erzeugen" Grid.Column="5" Grid.ColumnSpan="2" Grid.Row="11"
+         FontWeight="Bold" Background="Red" Foreground="White" Click="Erzeugen_Click" Margin="1" />
+        <Button x:Name="saveCatia" Background="Red" Foreground="White" Click="saveCatia_Click" Content="Expotieren" 
+                Grid.Column="3" Grid.Row="11" FontWeight="Bold" Margin="4"/>
+
+
+        <ComboBox x:Name="dateiFormat" Grid.Column="4" Grid.Row="11 " FontWeight="Bold"  >
+            <ComboBoxItem>CADPart</ComboBoxItem>
+            <ComboBoxItem>stp</ComboBoxItem>
+            <ComboBoxItem>igs</ComboBoxItem>
+            <ComboBoxItem>stl</ComboBoxItem>
+            <ComboBoxItem>3dmap</ComboBoxItem>
+        </ComboBox>
 
     </Grid>
 </UserControl>

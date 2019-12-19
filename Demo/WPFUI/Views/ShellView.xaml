@@ -6,27 +6,33 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFUI.Views"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
-        mc:Ignorable="d"  Height="600" Width="1024" Visibility="Visible" WindowStyle="None">
+        mc:Ignorable="d"  Height="600" Width="1024" Visibility="Visible" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    
+    
     <Grid>
-        
+
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="200"/>
-            <ColumnDefinition Width="*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="30"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        
-        <Grid x:Name="GridBar" Grid.ColumnSpan="2" Background="#FF5441B1" MouseDown="GridBar_MouseDown">
+
+        <Grid x:Name="GridBar" Grid.ColumnSpan="3" Background="#FF5441B1" MouseDown="GridBar_MouseDown" >
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" >
+                <Button x:Name="ButtonMin"  Width="25" Height="25" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="ButtonMin_Click">
+                    <materialDesign:PackIcon Kind="Minus"/>
+                </Button>
                 <Button x:Name="ButtonFechar"  Width="25" Height="25" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="ButtonFechar_Click">
                     <materialDesign:PackIcon Kind="Power"/>
                 </Button>
             </StackPanel>
 
         </Grid>
-        <Grid Grid.Row="1">
+        <Grid Margin="0,30,0,0" Grid.RowSpan="2">
             <Grid.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="LightGray" Offset="1"/>
@@ -42,8 +48,9 @@
             </Grid.Effect>
 
             <Grid Background="#FFA46FE4">
-                <TextBlock Text="Profil Rechner" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="WS Simple Gallifreyan" Foreground="#FFBC96EA" FontSize="20"/>
-                <TextBlock Text="InTeam" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="WS Simple Gallifreyan" Foreground="#FFBC96EA" FontSize="20" Margin="10"/>
+                <Image       Source="/WPFUI;component/Media/InteamLogo.PNG"/>
+                <!--<TextBlock Text="Profil Rechner" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="WS Simple Gallifreyan" Foreground="#FFBC96EA" FontSize="20"/>
+                <TextBlock Text="InTeam" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="WS Simple Gallifreyan" Foreground="#FFBC96EA" FontSize="20" Margin="10"/>-->
             </Grid>
 
             <StackPanel Grid.Row="1">
@@ -90,10 +97,10 @@
                     </Grid>
                 </Button>
 
-                <Button x:Name="LoadHprofil" Margin="10" Background="#FF8522BD" BorderBrush="#FF8522BD">
+                <Button x:Name="LoadVierkantrohrprofil" Margin="10" Background="#FF8522BD" BorderBrush="#FF8522BD">
                     <Grid Width="150">
                         <materialDesign:PackIcon Kind="ViewDashboard" VerticalAlignment="Center"/>
-                        <TextBlock HorizontalAlignment="Center" Text="H-PROFIL" FontFamily="Champagne &amp; Limousines" Foreground="White"/>
+                        <TextBlock HorizontalAlignment="Center" Text="VIERKANTROHR" FontFamily="Champagne &amp; Limousines" Foreground="White"/>
                     </Grid>
                 </Button>
 
@@ -113,7 +120,7 @@
                 </Button>
 
 
-                <Button Margin="10" Background="#FF8522BD" BorderBrush="#FF8522BD">
+                <Button x:Name="LoadMeineProfile" Margin="10" Background="#FF8522BD" BorderBrush="#FF8522BD">
                     <Grid Width="150">
                         <materialDesign:PackIcon Kind="Settings" VerticalAlignment="Center"/>
                         <TextBlock HorizontalAlignment="Center" Text="MEINE PROFILE" FontFamily="Champagne &amp; Limousines" Foreground="White"/>
@@ -123,8 +130,9 @@
             </StackPanel>
 
 
-            <ContentControl   x:Name="ActiveItem" Margin="205,0,-816,0.2" Grid.RowSpan="2"  />
+
         </Grid>
+        <ContentControl   x:Name="ActiveItem" Grid.Column="1" Grid.ColumnSpan="2" Margin="0,30,-0.4,-0.4" Grid.RowSpan="2"   />
     </Grid>
 
 </Window>

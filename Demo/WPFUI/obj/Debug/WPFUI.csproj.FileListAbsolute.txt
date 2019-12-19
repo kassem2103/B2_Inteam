@@ -38,3 +38,270 @@ C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Views\TprofilView.g.cs
 C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Views\TprofilView.baml
 C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Views\UprofilView.g.cs
 C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Views\UprofilView.baml
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Views\HprofilView.g.cs
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Views\Rechteckrohrprofil.g.cs
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Views\WinkelprofilView.g.cs
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Views\ZprofilView.g.cs
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Views\HprofilView.baml
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Views\Rechteckrohrprofil.baml
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Views\WinkelprofilView.baml
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Views\ZprofilView.baml
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Views\MeineProfileView.g.cs
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Views\MeineProfileView.baml
+C:\Users\user\Desktop\Demo\WPFUI\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Demo\WPFUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Demo\WPFUI\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\Demo\WPFUI\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Demo\WPFUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Demo\WPFUI\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\Demo\WPFUI\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\user\Desktop\Demo\WPFUI\bin\Debug\ProfilDB.db
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\WPFUI_Content.g.cs
+C:\Users\user\Desktop\Demo\WPFUI\bin\Debug\Dapper.dll
+C:\Users\user\Desktop\Demo\WPFUI\bin\Debug\Dapper.xml
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\ProfilDB.db
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\WPFUI.exe.config
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\WPFUI.exe
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\WPFUI.pdb
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\Caliburn.Micro.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\Dapper.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\EntityFramework.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\MaterialDesignColors.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\Caliburn.Micro.xml
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\Dapper.xml
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\EntityFramework.xml
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\WPFUI.csprojAssemblyReference.cache
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\HprofilView.g.cs
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\MeineProfileView.g.cs
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\RechteckprofilView.g.cs
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\KreisprofilView.g.cs
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\Rechteckrohrprofil.g.cs
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\RohrprofilView.g.cs
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\ShellView.g.cs
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\TprofilView.g.cs
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\UprofilView.g.cs
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\WinkelprofilView.g.cs
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\ZprofilView.g.cs
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\App.g.cs
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\WPFUI_Content.g.cs
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\WPFUI_MarkupCompile.cache
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\WPFUI_MarkupCompile.lref
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\App.baml
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\HprofilView.baml
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\MeineProfileView.baml
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\RechteckprofilView.baml
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\KreisprofilView.baml
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\Rechteckrohrprofil.baml
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\RohrprofilView.baml
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\ShellView.baml
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\TprofilView.baml
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\UprofilView.baml
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\WinkelprofilView.baml
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\ZprofilView.baml
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\WPFUI.g.resources
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\WPFUI.Properties.Resources.resources
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\WPFUI.csproj.GenerateResource.cache
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\WPFUI.csproj.CopyComplete
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\WPFUI.exe
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\WPFUI.pdb
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\user\Desktop\Demo\WPFUI\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\user\Desktop\Demo\WPFUI\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Views\VierkantrohrprofilView.g.cs
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Views\VierkantrohrprofilView.baml
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Interop.INFITF.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Interop.KnowledgewareTypeLib.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Interop.MECMOD.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Interop.PARTITF.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Interop.ProductStructureTypeLib.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\WPFUI.csproj.ResolveComReference.cache
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\VierkantrohrprofilView.g.cs
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Views\VierkantrohrprofilView.baml
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Interop.INFITF.dll
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Interop.KnowledgewareTypeLib.dll
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Interop.MECMOD.dll
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Interop.PARTITF.dll
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Interop.ProductStructureTypeLib.dll
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\WPFUI.csproj.ResolveComReference.cache
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\HelixToolkit.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\HelixToolkit.xml
+C:\Users\Kassem\Desktop\Demo\WPFUI\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Interop.CAT3DXml.dll
+C:\Users\Kassem\Desktop\Demo\WPFUI\obj\Debug\Interop.CATTooling.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\ProfilDB.db
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\WPFUI.exe.config
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\WPFUI.exe
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\WPFUI.pdb
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\Caliburn.Micro.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\Dapper.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\HelixToolkit.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\MaterialDesignColors.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\Caliburn.Micro.xml
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\Dapper.xml
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\HelixToolkit.xml
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\MaterialDesignColors.pdb
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\user\Desktop\Final\Demo\WPFUI\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\WPFUI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Interop.CAT3DXml.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Interop.CATTooling.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Interop.INFITF.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Interop.KnowledgewareTypeLib.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Interop.MECMOD.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Interop.PARTITF.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Interop.ProductStructureTypeLib.dll
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\WPFUI.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\HprofilView.g.cs
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\MeineProfileView.g.cs
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\RechteckprofilView.g.cs
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\KreisprofilView.g.cs
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\Rechteckrohrprofil.g.cs
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\RohrprofilView.g.cs
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\ShellView.g.cs
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\TprofilView.g.cs
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\UprofilView.g.cs
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\VierkantrohrprofilView.g.cs
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\WinkelprofilView.g.cs
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\ZprofilView.g.cs
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\WPFUI_Content.g.cs
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\WPFUI_MarkupCompile.cache
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\WPFUI_MarkupCompile.lref
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\App.baml
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\HprofilView.baml
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\MeineProfileView.baml
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\RechteckprofilView.baml
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\KreisprofilView.baml
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\Rechteckrohrprofil.baml
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\RohrprofilView.baml
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\ShellView.baml
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\TprofilView.baml
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\UprofilView.baml
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\VierkantrohrprofilView.baml
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\WinkelprofilView.baml
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\Views\ZprofilView.baml
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\WPFUI.g.resources
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\WPFUI.Properties.Resources.resources
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\WPFUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\WPFUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\WPFUI.csproj.CopyComplete
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\WPFUI.exe
+C:\Users\user\Desktop\Final\Demo\WPFUI\obj\Debug\WPFUI.pdb
+D:\Uni Alles\Demo\WPFUI\bin\Debug\ProfilDB.db
+D:\Uni Alles\Demo\WPFUI\bin\Debug\WPFUI.exe.config
+D:\Uni Alles\Demo\WPFUI\bin\Debug\WPFUI.exe
+D:\Uni Alles\Demo\WPFUI\bin\Debug\WPFUI.pdb
+D:\Uni Alles\Demo\WPFUI\bin\Debug\Caliburn.Micro.dll
+D:\Uni Alles\Demo\WPFUI\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\Uni Alles\Demo\WPFUI\bin\Debug\Caliburn.Micro.Platform.dll
+D:\Uni Alles\Demo\WPFUI\bin\Debug\Dapper.dll
+D:\Uni Alles\Demo\WPFUI\bin\Debug\EntityFramework.dll
+D:\Uni Alles\Demo\WPFUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Uni Alles\Demo\WPFUI\bin\Debug\HelixToolkit.dll
+D:\Uni Alles\Demo\WPFUI\bin\Debug\HelixToolkit.Wpf.dll
+D:\Uni Alles\Demo\WPFUI\bin\Debug\MaterialDesignColors.dll
+D:\Uni Alles\Demo\WPFUI\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Uni Alles\Demo\WPFUI\bin\Debug\System.Data.SQLite.dll
+D:\Uni Alles\Demo\WPFUI\bin\Debug\System.Windows.Interactivity.dll
+D:\Uni Alles\Demo\WPFUI\bin\Debug\Z.Dapper.Plus.dll
+D:\Uni Alles\Demo\WPFUI\bin\Debug\Caliburn.Micro.xml
+D:\Uni Alles\Demo\WPFUI\bin\Debug\Caliburn.Micro.Platform.xml
+D:\Uni Alles\Demo\WPFUI\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\Uni Alles\Demo\WPFUI\bin\Debug\Dapper.xml
+D:\Uni Alles\Demo\WPFUI\bin\Debug\EntityFramework.xml
+D:\Uni Alles\Demo\WPFUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Uni Alles\Demo\WPFUI\bin\Debug\HelixToolkit.xml
+D:\Uni Alles\Demo\WPFUI\bin\Debug\HelixToolkit.Wpf.xml
+D:\Uni Alles\Demo\WPFUI\bin\Debug\MaterialDesignColors.pdb
+D:\Uni Alles\Demo\WPFUI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Uni Alles\Demo\WPFUI\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Uni Alles\Demo\WPFUI\bin\Debug\System.Data.SQLite.xml
+D:\Uni Alles\Demo\WPFUI\bin\Debug\System.Data.SQLite.dll.config
+D:\Uni Alles\Demo\WPFUI\bin\Debug\Z.Dapper.Plus.xml
+D:\Uni Alles\Demo\WPFUI\obj\Debug\WPFUI.csprojAssemblyReference.cache
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Interop.CAT3DXml.dll
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Interop.CATTooling.dll
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Interop.INFITF.dll
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Interop.KnowledgewareTypeLib.dll
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Interop.MECMOD.dll
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Interop.PARTITF.dll
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Interop.ProductStructureTypeLib.dll
+D:\Uni Alles\Demo\WPFUI\obj\Debug\WPFUI.csproj.ResolveComReference.cache
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\HprofilView.g.cs
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\MeineProfileView.g.cs
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\RechteckprofilView.g.cs
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\KreisprofilView.g.cs
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\Rechteckrohrprofil.g.cs
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\RohrprofilView.g.cs
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\ShellView.g.cs
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\TprofilView.g.cs
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\UprofilView.g.cs
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\VierkantrohrprofilView.g.cs
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\WinkelprofilView.g.cs
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\ZprofilView.g.cs
+D:\Uni Alles\Demo\WPFUI\obj\Debug\App.g.cs
+D:\Uni Alles\Demo\WPFUI\obj\Debug\WPFUI_Content.g.cs
+D:\Uni Alles\Demo\WPFUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Uni Alles\Demo\WPFUI\obj\Debug\WPFUI_MarkupCompile.cache
+D:\Uni Alles\Demo\WPFUI\obj\Debug\WPFUI_MarkupCompile.lref
+D:\Uni Alles\Demo\WPFUI\obj\Debug\App.baml
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\HprofilView.baml
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\MeineProfileView.baml
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\RechteckprofilView.baml
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\KreisprofilView.baml
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\Rechteckrohrprofil.baml
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\RohrprofilView.baml
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\ShellView.baml
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\TprofilView.baml
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\UprofilView.baml
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\VierkantrohrprofilView.baml
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\WinkelprofilView.baml
+D:\Uni Alles\Demo\WPFUI\obj\Debug\Views\ZprofilView.baml
+D:\Uni Alles\Demo\WPFUI\obj\Debug\WPFUI.g.resources
+D:\Uni Alles\Demo\WPFUI\obj\Debug\WPFUI.Properties.Resources.resources
+D:\Uni Alles\Demo\WPFUI\obj\Debug\WPFUI.csproj.GenerateResource.cache
+D:\Uni Alles\Demo\WPFUI\obj\Debug\WPFUI.csproj.CoreCompileInputs.cache
+D:\Uni Alles\Demo\WPFUI\obj\Debug\WPFUI.csproj.CopyComplete
+D:\Uni Alles\Demo\WPFUI\obj\Debug\WPFUI.exe
+D:\Uni Alles\Demo\WPFUI\obj\Debug\WPFUI.pdb
+C:\Users\user\Desktop\Demo\WPFUI\bin\Debug\HelixToolkit.dll
+C:\Users\user\Desktop\Demo\WPFUI\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\user\Desktop\Demo\WPFUI\bin\Debug\HelixToolkit.xml
+C:\Users\user\Desktop\Demo\WPFUI\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Interop.CAT3DXml.dll
+C:\Users\user\Desktop\Demo\WPFUI\obj\Debug\Interop.CATTooling.dll

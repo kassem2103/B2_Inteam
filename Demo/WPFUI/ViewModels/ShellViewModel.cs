@@ -41,11 +41,6 @@ namespace WPFUI.ViewModels
         {
 
         }
-        // Damit das Programm verschiebar ist
-        private void GridBar_MouseDown(object sender, MouseButtonEventArgs e)
-        {
-            //DragMove();
-        }
 
         // öffnet das Rechteckprofil Window
         public void LoadRechteckprofil()
@@ -77,5 +72,25 @@ namespace WPFUI.ViewModels
             ActivateItem(new UprofilViewModel());
         }
 
+        public void LoadZprofil()
+        {
+            ActivateItem(new ZprofilViewModel());
+        }
+        public void LoadVierkantrohrprofil()
+        {
+            ActivateItem(new VierkantrohrprofilViewModel());
+        }
+        public void LoadWinkelprofil()
+        {
+            ActivateItem(new WinkelprofilViewModel());
+        }
+        public void LoadRechteckrohrprofil()
+        {
+            ActivateItem(new RechteckrohrprofilViewModel());
+        }
+        public void LoadMeineProfile()
+        {
+            ActivateItem(new MeineProfileViewModel());
+        }
     }
 }
